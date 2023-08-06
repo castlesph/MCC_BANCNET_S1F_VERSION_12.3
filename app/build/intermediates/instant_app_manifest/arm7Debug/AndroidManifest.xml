@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.Source.S1_BANCNET.BANCNET"
+    android:sharedUserId="user.castles"
+    android:targetSandboxVersion="2"
+    android:versionCode="25"
+    android:versionName="1.50" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.REORDER_TASKS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION " />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="false"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Splash"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:icon="@drawable/icon"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Main.MainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.OrderCheck"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.PayChoose"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.PayCheck"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.HelloJni"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.PayApprove"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Recipy"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Recipy2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.ICcard"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.MSRcard"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Load"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Load2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.NETSprompt_amount"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.NETSprompt_refno"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.SocketActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.DispayText"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.GetAmount"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.db.AndroidDatabaseManager"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.db.ChooseFileActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.db.DatabaseManager"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" />
+        <activity android:name="com.Source.S1_BANCNET.BANCNET.EditDatabaseActivity" />
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.UserInputString"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu3"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.DisplayCardIDLE"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="BANCNET"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.DOptionMenu"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.DPopupMenuActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:noHistory="false"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.NormalKeyBoard"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Main.MultiAP_SubAP"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.AmountEntryActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:noHistory="false"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.S1InputString"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.SignaturePad.SignaturePadCastles"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.BatchReview"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmOKMenu"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:noHistory="false"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.EliteReceiptonScreen"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.PrintReceiptonScreen"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:noHistory="false"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.Trans.UserConfirmCard"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu2"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="com.Source.S1_BANCNET.BANCNET.model.UserConfirmation"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,507 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Source.S1_BANCNET.BANCNET"
+4    android:sharedUserId="user.castles"
+5    android:versionCode="25"
+6    android:versionName="1.50" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="15"
+9-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="26" />
+10-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:6:5-67
+12-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.REORDER_TASKS" />
+14-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:8:5-72
+14-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:8:22-69
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:9:5-81
+15-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:9:22-78
+16    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+16-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:10:5-75
+16-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:11:2-75
+17-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:11:19-73
+18    <uses-permission android:name="android.permission.ACCESS_SUPERUSER" />
+18-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:12:5-75
+18-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:12:22-72
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:13:5-68
+19-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:13:22-65
+20    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+20-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:14:5-79
+20-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:14:22-76
+21    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION " />
+21-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:15:5-82
+21-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:15:22-79
+22
+23    <meta-data
+23-->[com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:25:5-27:34
+24        android:name="android.support.VERSION"
+24-->[com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:26:9-47
+25        android:value="25.3.1" />
+25-->[com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:27:9-31
+26
+27    <application
+27-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:17:5-251:19
+28        android:allowBackup="true"
+28-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:18:9-35
+29        android:debuggable="true"
+30        android:hardwareAccelerated="false"
+30-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:19:9-44
+31        android:icon="@mipmap/ic_launcher"
+31-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:20:9-43
+32        android:label="@string/app_name"
+32-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:21:9-41
+33        android:largeHeap="false"
+33-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:22:9-34
+34        android:roundIcon="@mipmap/ic_launcher_round"
+34-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:23:9-54
+35        android:supportsRtl="true"
+35-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:24:9-35
+36        android:theme="@style/AppTheme" >
+36-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:25:9-40
+37        <activity
+37-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:26:9-37:20
+38            android:name="com.Source.S1_BANCNET.BANCNET.Splash"
+38-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:27:13-35
+39            android:configChanges="orientation|keyboardHidden|screenSize"
+39-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:28:13-74
+40            android:icon="@drawable/icon"
+40-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:29:13-42
+41            android:label="@string/app_name"
+41-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:30:13-45
+42            android:theme="@style/FullscreenTheme" >
+42-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:31:13-51
+43            <intent-filter>
+43-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:32:13-36:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:33:17-69
+44-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:33:25-66
+45
+46                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+46-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:35:17-85
+46-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:35:27-83
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:38:9-43:63
+50            android:name="com.Source.S1_BANCNET.BANCNET.Main.MainActivity"
+50-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:39:13-46
+51            android:configChanges="orientation|keyboardHidden|screenSize"
+51-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:40:13-74
+52            android:exported="true"
+52-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:41:13-36
+53            android:label="@string/app_name"
+53-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:42:13-45
+54            android:theme="@style/FullscreenTheme" />
+54-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:43:13-51
+55        <activity
+55-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:44:9-48:63
+56            android:name="com.Source.S1_BANCNET.BANCNET.OrderCheck"
+56-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:45:13-39
+57            android:configChanges="orientation|keyboardHidden|screenSize"
+57-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:46:13-74
+58            android:label="@string/app_name"
+58-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:47:13-45
+59            android:theme="@style/FullscreenTheme" />
+59-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:48:13-51
+60        <activity
+60-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:49:9-53:63
+61            android:name="com.Source.S1_BANCNET.BANCNET.PayChoose"
+61-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:50:13-38
+62            android:configChanges="orientation|keyboardHidden|screenSize"
+62-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:51:13-74
+63            android:label="@string/app_name"
+63-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:52:13-45
+64            android:theme="@style/FullscreenTheme" />
+64-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:53:13-51
+65        <activity
+65-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:54:9-58:63
+66            android:name="com.Source.S1_BANCNET.BANCNET.PayCheck"
+66-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:55:13-37
+67            android:configChanges="orientation|keyboardHidden|screenSize"
+67-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:56:13-74
+68            android:label="@string/app_name"
+68-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:57:13-45
+69            android:theme="@style/FullscreenTheme" />
+69-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:58:13-51
+70        <activity
+70-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:59:9-63:63
+71            android:name="com.Source.S1_BANCNET.BANCNET.HelloJni"
+71-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:60:13-37
+72            android:label="@string/app_name"
+72-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:61:13-45
+73            android:screenOrientation="portrait"
+73-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:62:13-49
+74            android:theme="@style/FullscreenTheme" />
+74-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:63:13-51
+75        <activity
+75-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:64:9-68:63
+76            android:name="com.Source.S1_BANCNET.BANCNET.PayApprove"
+76-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:65:13-39
+77            android:configChanges="orientation|keyboardHidden|screenSize"
+77-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:66:13-74
+78            android:label="@string/app_name"
+78-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:67:13-45
+79            android:theme="@style/FullscreenTheme" />
+79-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:68:13-51
+80        <activity
+80-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:69:9-73:63
+81            android:name="com.Source.S1_BANCNET.BANCNET.Recipy"
+81-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:70:13-35
+82            android:configChanges="orientation|keyboardHidden|screenSize"
+82-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:71:13-74
+83            android:label="@string/app_name"
+83-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:72:13-45
+84            android:theme="@style/FullscreenTheme" />
+84-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:73:13-51
+85        <activity
+85-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:74:9-78:63
+86            android:name="com.Source.S1_BANCNET.BANCNET.Recipy2"
+86-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:75:13-36
+87            android:configChanges="orientation|keyboardHidden|screenSize"
+87-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:76:13-74
+88            android:label="@string/app_name"
+88-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:77:13-45
+89            android:theme="@style/FullscreenTheme" />
+89-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:78:13-51
+90        <activity
+90-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:79:9-83:63
+91            android:name="com.Source.S1_BANCNET.BANCNET.ICcard"
+91-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:80:13-35
+92            android:configChanges="orientation|keyboardHidden|screenSize"
+92-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:81:13-74
+93            android:label="@string/app_name"
+93-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:82:13-45
+94            android:theme="@style/FullscreenTheme" />
+94-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:83:13-51
+95        <activity
+95-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:84:9-88:63
+96            android:name="com.Source.S1_BANCNET.BANCNET.MSRcard"
+96-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:85:13-36
+97            android:configChanges="orientation|keyboardHidden|screenSize"
+97-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:86:13-74
+98            android:label="@string/app_name"
+98-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:87:13-45
+99            android:theme="@style/FullscreenTheme" />
+99-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:88:13-51
+100        <activity
+100-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:89:9-93:63
+101            android:name="com.Source.S1_BANCNET.BANCNET.Load"
+101-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:90:13-33
+102            android:configChanges="orientation|keyboardHidden|screenSize"
+102-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:91:13-74
+103            android:label="@string/app_name"
+103-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:92:13-45
+104            android:theme="@style/FullscreenTheme" />
+104-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:93:13-51
+105        <activity
+105-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:94:9-98:63
+106            android:name="com.Source.S1_BANCNET.BANCNET.Load2"
+106-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:95:13-34
+107            android:configChanges="orientation|keyboardHidden|screenSize"
+107-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:96:13-74
+108            android:label="@string/app_name"
+108-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:97:13-45
+109            android:theme="@style/FullscreenTheme" />
+109-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:98:13-51
+110        <activity
+110-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:99:9-103:63
+111            android:name="com.Source.S1_BANCNET.BANCNET.Trans.NETSprompt_amount"
+111-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:100:13-52
+112            android:configChanges="orientation|keyboardHidden|screenSize"
+112-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:101:13-74
+113            android:label="@string/app_name"
+113-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:102:13-45
+114            android:theme="@style/FullscreenTheme" />
+114-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:103:13-51
+115        <activity
+115-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:104:9-108:63
+116            android:name="com.Source.S1_BANCNET.BANCNET.Trans.NETSprompt_refno"
+116-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:105:13-51
+117            android:configChanges="orientation|keyboardHidden|screenSize"
+117-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:106:13-74
+118            android:label="@string/app_name"
+118-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:107:13-45
+119            android:theme="@style/FullscreenTheme" />
+119-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:108:13-51
+120        <activity
+120-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:109:9-113:63
+121            android:name="com.Source.S1_BANCNET.BANCNET.SocketActivity"
+121-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:110:13-43
+122            android:configChanges="orientation|keyboardHidden|screenSize"
+122-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:111:13-74
+123            android:label="@string/app_name"
+123-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:112:13-45
+124            android:theme="@style/FullscreenTheme" />
+124-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:113:13-51
+125        <activity
+125-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:114:9-118:63
+126            android:name="com.Source.S1_BANCNET.BANCNET.model.DispayText"
+126-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:115:13-45
+127            android:configChanges="orientation|keyboardHidden|screenSize"
+127-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:116:13-74
+128            android:label="@string/app_name"
+128-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:117:13-45
+129            android:theme="@style/FullscreenTheme" />
+129-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:118:13-51
+130        <activity
+130-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:119:9-123:63
+131            android:name="com.Source.S1_BANCNET.BANCNET.Trans.GetAmount"
+131-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:120:13-44
+132            android:configChanges="orientation|keyboardHidden|screenSize"
+132-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:121:13-74
+133            android:label="@string/app_name"
+133-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:122:13-45
+134            android:theme="@style/FullscreenTheme" />
+134-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:123:13-51
+135        <activity
+135-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:124:9-128:63
+136            android:name="com.Source.S1_BANCNET.BANCNET.db.AndroidDatabaseManager"
+136-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:125:13-54
+137            android:configChanges="orientation|keyboardHidden|screenSize"
+137-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:126:13-74
+138            android:label="@string/app_name"
+138-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:127:13-45
+139            android:theme="@style/FullscreenTheme" />
+139-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:128:13-51
+140        <activity
+140-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:129:9-133:63
+141            android:name="com.Source.S1_BANCNET.BANCNET.db.ChooseFileActivity"
+141-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:130:13-50
+142            android:configChanges="orientation|keyboardHidden|screenSize"
+142-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:131:13-74
+143            android:label="@string/app_name"
+143-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:132:13-45
+144            android:theme="@style/FullscreenTheme" />
+144-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:133:13-51
+145        <activity
+145-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:134:9-138:63
+146            android:name="com.Source.S1_BANCNET.BANCNET.db.DatabaseManager"
+146-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:135:13-47
+147            android:configChanges="orientation|keyboardHidden|screenSize"
+147-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:136:13-74
+148            android:label="@string/app_name"
+148-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:137:13-45
+149            android:theme="@style/FullscreenTheme" />
+149-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:138:13-51
+150        <activity android:name="com.Source.S1_BANCNET.BANCNET.EditDatabaseActivity" />
+150-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:139:9-67
+150-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:139:19-55
+151        <activity
+151-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:140:9-145:16
+152            android:name="com.Source.S1_BANCNET.BANCNET.model.UserInputString"
+152-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:141:9-75
+153            android:configChanges="orientation|keyboardHidden|screenSize"
+153-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:142:9-70
+154            android:label="@string/app_name"
+154-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:143:9-41
+155            android:theme="@style/FullscreenTheme" >
+155-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:144:9-47
+156        </activity>
+157        <activity
+157-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:146:9-151:20
+158            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu"
+158-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:147:13-75
+159            android:configChanges="orientation|keyboardHidden|screenSize"
+159-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:148:13-74
+160            android:label="@string/app_name"
+160-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:149:13-45
+161            android:theme="@style/FullscreenTheme" >
+161-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:150:13-51
+162        </activity>
+163        <activity
+163-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:152:9-157:20
+164            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu3"
+164-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:153:13-76
+165            android:configChanges="orientation|keyboardHidden|screenSize"
+165-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:154:13-74
+166            android:label="@string/app_name"
+166-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:155:13-45
+167            android:theme="@style/FullscreenTheme" >
+167-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:156:13-51
+168        </activity>
+169        <activity
+169-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:158:9-163:20
+170            android:name="com.Source.S1_BANCNET.BANCNET.model.DisplayCardIDLE"
+170-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:159:13-79
+171            android:configChanges="orientation|keyboardHidden|screenSize"
+171-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:160:13-74
+172            android:label="BANCNET"
+172-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:161:13-36
+173            android:theme="@style/FullscreenTheme" >
+173-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:162:13-51
+174        </activity>
+175        <activity
+175-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:164:9-169:20
+176            android:name="com.Source.S1_BANCNET.BANCNET.model.DOptionMenu"
+176-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:165:13-75
+177            android:configChanges="orientation|keyboardHidden|screenSize"
+177-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:166:13-74
+178            android:label="@string/app_name"
+178-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:167:13-45
+179            android:theme="@style/FullscreenTheme" >
+179-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:168:13-51
+180        </activity>
+181        <activity
+181-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:170:9-176:20
+182            android:name="com.Source.S1_BANCNET.BANCNET.model.DPopupMenuActivity"
+182-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:171:13-82
+183            android:configChanges="orientation|keyboardHidden|screenSize"
+183-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:172:13-74
+184            android:label="@string/app_name"
+184-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:173:13-45
+185            android:noHistory="false"
+185-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:174:13-38
+186            android:theme="@style/FullscreenTheme" >
+186-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:175:13-51
+187        </activity>
+188        <activity
+188-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:177:9-182:20
+189            android:name="com.Source.S1_BANCNET.BANCNET.model.NormalKeyBoard"
+189-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:178:13-78
+190            android:configChanges="orientation|keyboardHidden|screenSize"
+190-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:179:13-74
+191            android:label="@string/app_name"
+191-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:180:13-45
+192            android:theme="@style/FullscreenTheme" >
+192-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:181:13-51
+193        </activity>
+194        <activity
+194-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:183:9-188:20
+195            android:name="com.Source.S1_BANCNET.BANCNET.Main.MultiAP_SubAP"
+195-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:184:13-76
+196            android:configChanges="orientation|keyboardHidden|screenSize"
+196-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:185:13-74
+197            android:exported="true"
+197-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:187:13-36
+198            android:label="@string/app_name" >
+198-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:186:13-45
+199        </activity>
+200        <activity
+200-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:189:9-195:20
+201            android:name="com.Source.S1_BANCNET.BANCNET.Trans.AmountEntryActivity"
+201-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:190:13-54
+202            android:configChanges="orientation|keyboardHidden|screenSize"
+202-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:191:13-74
+203            android:label="@string/app_name"
+203-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:192:13-45
+204            android:noHistory="false"
+204-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:193:13-38
+205            android:theme="@style/FullscreenTheme" >
+205-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:194:13-51
+206        </activity>
+207        <activity
+207-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:196:13-200:20
+208            android:name="com.Source.S1_BANCNET.BANCNET.Trans.S1InputString"
+208-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:196:23-58
+209            android:configChanges="orientation|keyboardHidden|screenSize"
+209-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:199:13-74
+210            android:label="@string/app_name"
+210-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:198:13-45
+211            android:theme="@style/FullscreenTheme" >
+211-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:197:13-51
+212        </activity>
+213        <activity
+213-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:201:9-206:20
+214            android:name="com.Source.S1_BANCNET.BANCNET.SignaturePad.SignaturePadCastles"
+214-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:202:13-90
+215            android:configChanges="orientation|keyboardHidden|screenSize"
+215-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:203:13-74
+216            android:label="@string/app_name"
+216-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:204:13-45
+217            android:theme="@style/FullscreenTheme" >
+217-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:205:13-51
+218        </activity>
+219        <activity
+219-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:207:9-212:20
+220            android:name="com.Source.S1_BANCNET.BANCNET.Trans.BatchReview"
+220-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:208:9-71
+221            android:configChanges="orientation|keyboardHidden|screenSize"
+221-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:209:9-70
+222            android:label="@string/app_name"
+222-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:210:9-41
+223            android:theme="@style/FullscreenTheme" >
+223-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:211:9-47
+224        </activity>
+225        <activity
+225-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:213:9-219:20
+226            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmOKMenu"
+226-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:214:13-77
+227            android:configChanges="orientation|keyboardHidden|screenSize"
+227-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:215:13-74
+228            android:label="@string/app_name"
+228-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:216:13-45
+229            android:noHistory="false"
+229-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:217:13-38
+230            android:theme="@style/FullscreenTheme" >
+230-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:218:13-51
+231        </activity>
+232        <activity
+232-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:220:9-225:20
+233            android:name="com.Source.S1_BANCNET.BANCNET.model.EliteReceiptonScreen"
+233-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:221:13-84
+234            android:configChanges="orientation|keyboardHidden|screenSize"
+234-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:222:13-74
+235            android:label="@string/app_name"
+235-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:223:13-45
+236            android:theme="@style/FullscreenTheme" >
+236-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:224:13-51
+237        </activity>
+238        <activity
+238-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:226:9-232:20
+239            android:name="com.Source.S1_BANCNET.BANCNET.model.PrintReceiptonScreen"
+239-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:227:13-84
+240            android:configChanges="orientation|keyboardHidden|screenSize"
+240-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:228:13-74
+241            android:label="@string/app_name"
+241-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:229:13-45
+242            android:noHistory="false"
+242-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:230:13-38
+243            android:theme="@style/FullscreenTheme" >
+243-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:231:13-51
+244        </activity>
+245        <activity
+245-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:233:9-238:20
+246            android:name="com.Source.S1_BANCNET.BANCNET.Trans.UserConfirmCard"
+246-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:234:13-79
+247            android:configChanges="orientation|keyboardHidden|screenSize"
+247-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:235:13-74
+248            android:label="@string/app_name"
+248-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:236:13-45
+249            android:theme="@style/FullscreenTheme" >
+249-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:237:13-51
+250        </activity>
+251        <activity
+251-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:239:9-244:20
+252            android:name="com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu2"
+252-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:240:13-76
+253            android:configChanges="orientation|keyboardHidden|screenSize"
+253-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:241:13-74
+254            android:label="@string/app_name"
+254-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:242:13-45
+255            android:theme="@style/FullscreenTheme" >
+255-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:243:13-51
+256        </activity>
+257        <activity
+257-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:245:9-250:20
+258            android:name="com.Source.S1_BANCNET.BANCNET.model.UserConfirmation"
+258-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:246:13-80
+259            android:configChanges="orientation|keyboardHidden|screenSize"
+259-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:247:13-74
+260            android:label="@string/app_name"
+260-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:248:13-45
+261            android:theme="@style/FullscreenTheme" >
+261-->C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:249:13-51
+262        </activity>
+263    </application>
+264
+265</manifest>

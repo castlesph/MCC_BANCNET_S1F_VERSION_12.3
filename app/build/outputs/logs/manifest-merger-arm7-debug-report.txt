@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+MERGED from [signature-pad-debug.aar] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\6e58e4018e1caa8cafd8329905e809eb\signature-pad-debug\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\5d923d72cebebfb6d7f4f57c29218e7c\timber-4.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8428dd7b19e0b45f2e556043cdbf63bc\android-gif-drawable-1.2.7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+	package
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+	android:sharedUserId
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:4:5-40
+	android:versionName
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:1-253:12
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.REORDER_TASKS
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:11:2-75
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:11:19-73
+uses-permission#android.permission.ACCESS_SUPERUSER
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION 
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:15:5-82
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:15:22-79
+application
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:17:5-251:19
+MERGED from [signature-pad-debug.aar] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\6e58e4018e1caa8cafd8329905e809eb\signature-pad-debug\AndroidManifest.xml:11:5-20
+MERGED from [signature-pad-debug.aar] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\6e58e4018e1caa8cafd8329905e809eb\signature-pad-debug\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\5d923d72cebebfb6d7f4f57c29218e7c\timber-4.7.0\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\5d923d72cebebfb6d7f4f57c29218e7c\timber-4.7.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:21:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:19:9-44
+	android:roundIcon
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:23:9-54
+	android:largeHeap
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:22:9-34
+	android:icon
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.Source.S1_BANCNET.BANCNET.Splash
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:26:9-37:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:30:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:28:13-74
+	android:icon
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:29:13-42
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:31:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:27:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:35:17-85
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:35:27-83
+activity#com.Source.S1_BANCNET.BANCNET.Main.MainActivity
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:38:9-43:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:41:13-36
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:43:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:39:13-46
+activity#com.Source.S1_BANCNET.BANCNET.OrderCheck
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:44:9-48:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:47:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:48:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:45:13-39
+activity#com.Source.S1_BANCNET.BANCNET.PayChoose
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:49:9-53:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:52:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:51:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:53:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:50:13-38
+activity#com.Source.S1_BANCNET.BANCNET.PayCheck
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:54:9-58:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:57:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:56:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:58:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:55:13-37
+activity#com.Source.S1_BANCNET.BANCNET.HelloJni
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:59:9-63:63
+	android:screenOrientation
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:61:13-45
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:63:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:60:13-37
+activity#com.Source.S1_BANCNET.BANCNET.PayApprove
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:64:9-68:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:67:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:66:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:68:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:65:13-39
+activity#com.Source.S1_BANCNET.BANCNET.Recipy
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:69:9-73:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:72:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:71:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:73:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:70:13-35
+activity#com.Source.S1_BANCNET.BANCNET.Recipy2
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:74:9-78:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:77:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:76:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:78:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:75:13-36
+activity#com.Source.S1_BANCNET.BANCNET.ICcard
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:79:9-83:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:82:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:81:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:83:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:80:13-35
+activity#com.Source.S1_BANCNET.BANCNET.MSRcard
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:84:9-88:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:87:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:86:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:88:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:85:13-36
+activity#com.Source.S1_BANCNET.BANCNET.Load
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:89:9-93:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:92:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:91:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:93:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:90:13-33
+activity#com.Source.S1_BANCNET.BANCNET.Load2
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:94:9-98:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:97:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:96:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:98:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:95:13-34
+activity#com.Source.S1_BANCNET.BANCNET.Trans.NETSprompt_amount
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:99:9-103:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:102:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:101:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:103:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:100:13-52
+activity#com.Source.S1_BANCNET.BANCNET.Trans.NETSprompt_refno
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:104:9-108:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:107:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:106:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:108:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:105:13-51
+activity#com.Source.S1_BANCNET.BANCNET.SocketActivity
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:109:9-113:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:112:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:111:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:113:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:110:13-43
+activity#com.Source.S1_BANCNET.BANCNET.model.DispayText
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:114:9-118:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:117:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:116:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:118:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:115:13-45
+activity#com.Source.S1_BANCNET.BANCNET.Trans.GetAmount
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:119:9-123:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:122:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:121:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:123:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:120:13-44
+activity#com.Source.S1_BANCNET.BANCNET.db.AndroidDatabaseManager
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:124:9-128:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:127:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:126:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:128:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:125:13-54
+activity#com.Source.S1_BANCNET.BANCNET.db.ChooseFileActivity
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:129:9-133:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:132:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:131:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:133:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:130:13-50
+activity#com.Source.S1_BANCNET.BANCNET.db.DatabaseManager
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:134:9-138:63
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:137:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:136:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:138:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:135:13-47
+activity#com.Source.S1_BANCNET.BANCNET.EditDatabaseActivity
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:139:9-67
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:139:19-55
+activity#com.Source.S1_BANCNET.BANCNET.model.UserInputString
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:140:9-145:16
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:143:9-41
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:142:9-70
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:144:9-47
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:141:9-75
+activity#com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:146:9-151:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:149:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:148:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:150:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:147:13-75
+activity#com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu3
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:152:9-157:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:155:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:154:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:156:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:153:13-76
+activity#com.Source.S1_BANCNET.BANCNET.model.DisplayCardIDLE
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:158:9-163:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:161:13-36
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:160:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:162:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:159:13-79
+activity#com.Source.S1_BANCNET.BANCNET.model.DOptionMenu
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:164:9-169:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:167:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:166:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:168:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:165:13-75
+activity#com.Source.S1_BANCNET.BANCNET.model.DPopupMenuActivity
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:170:9-176:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:173:13-45
+	android:noHistory
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:174:13-38
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:172:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:175:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:171:13-82
+activity#com.Source.S1_BANCNET.BANCNET.model.NormalKeyBoard
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:177:9-182:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:180:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:179:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:181:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:178:13-78
+activity#com.Source.S1_BANCNET.BANCNET.Main.MultiAP_SubAP
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:183:9-188:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:186:13-45
+	android:exported
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:187:13-36
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:185:13-74
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:184:13-76
+activity#com.Source.S1_BANCNET.BANCNET.Trans.AmountEntryActivity
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:189:9-195:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:192:13-45
+	android:noHistory
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:193:13-38
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:191:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:194:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:190:13-54
+activity#com.Source.S1_BANCNET.BANCNET.Trans.S1InputString
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:196:13-200:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:198:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:199:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:197:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:196:23-58
+activity#com.Source.S1_BANCNET.BANCNET.SignaturePad.SignaturePadCastles
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:201:9-206:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:204:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:203:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:205:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:202:13-90
+activity#com.Source.S1_BANCNET.BANCNET.Trans.BatchReview
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:207:9-212:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:210:9-41
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:209:9-70
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:211:9-47
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:208:9-71
+activity#com.Source.S1_BANCNET.BANCNET.model.ConfirmOKMenu
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:213:9-219:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:216:13-45
+	android:noHistory
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:217:13-38
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:215:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:218:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:214:13-77
+activity#com.Source.S1_BANCNET.BANCNET.model.EliteReceiptonScreen
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:220:9-225:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:223:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:222:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:224:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:221:13-84
+activity#com.Source.S1_BANCNET.BANCNET.model.PrintReceiptonScreen
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:226:9-232:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:229:13-45
+	android:noHistory
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:230:13-38
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:228:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:231:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:227:13-84
+activity#com.Source.S1_BANCNET.BANCNET.Trans.UserConfirmCard
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:233:9-238:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:236:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:235:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:237:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:234:13-79
+activity#com.Source.S1_BANCNET.BANCNET.model.ConfirmMenu2
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:239:9-244:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:242:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:241:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:243:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:240:13-76
+activity#com.Source.S1_BANCNET.BANCNET.model.UserConfirmation
+ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:245:9-250:20
+	android:label
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:248:13-45
+	android:configChanges
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:247:13-74
+	android:theme
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:249:13-51
+	android:name
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml:246:13-80
+uses-sdk
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+MERGED from [signature-pad-debug.aar] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\6e58e4018e1caa8cafd8329905e809eb\signature-pad-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [signature-pad-debug.aar] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\6e58e4018e1caa8cafd8329905e809eb\signature-pad-debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cb20b76ed225fe8217fdebe6b4cd159d\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\5d923d72cebebfb6d7f4f57c29218e7c\timber-4.7.0\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.0] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\5d923d72cebebfb6d7f4f57c29218e7c\timber-4.7.0\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8428dd7b19e0b45f2e556043cdbf63bc\android-gif-drawable-1.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.7] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8428dd7b19e0b45f2e556043cdbf63bc\android-gif-drawable-1.2.7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		ADDED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Projects\MCC VERSION 12.3 - S1F\S1_BANCNET_ECR\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\76a028669807120c20e2f5145779265a\support-v4-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\8d4a9bc49bdc17eb3659263d0c21e5e5\animated-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\85af815577947965c5f52042ff17f63d\support-vector-drawable-25.3.1\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\a659ec828d3dee71ce1654738b592e97\support-fragment-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\4b70a6bb2a7ba0ab3e5727cedeb6997e\support-media-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\559b28e02efa0508dc23e64445812ab3\support-core-utils-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\79ffe674180bb71b914b664b25bfd087\support-core-ui-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\cd5f504f1ad7bd08caeed5e0561cca34\support-compat-25.3.1\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\CastlesOne\.gradle\caches\transforms-2\files-2.1\be37f51fafd9910745bee0ef9b4536a0\appcompat-v7-25.3.1\AndroidManifest.xml:26:9-47
