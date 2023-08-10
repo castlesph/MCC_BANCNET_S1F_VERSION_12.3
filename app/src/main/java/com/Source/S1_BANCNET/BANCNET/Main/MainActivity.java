@@ -4589,6 +4589,12 @@ public String GetRootFS(String text) throws InterruptedException {
             public void run() {
                 overridePendingTransition(0, 0); // disable the animation, faster
 
+                try {
+                    Thread.sleep(200);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+
                 getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
                 View decorView = getWindow().getDecorView();
                 decorView.setSystemUiVisibility(View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY |
